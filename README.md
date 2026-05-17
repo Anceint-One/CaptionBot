@@ -2,8 +2,6 @@
 
 > A Telegram bot that automatically enriches video captions with media information — quality, codec, duration, audio languages, and subtitles — for posts in your channels. Also works in private chats for on-demand analysis.
 
-**Made by [@piroxbots](https://t.me/piroxbots) · Bug reports: [@notyourpiro](https://t.me/notyourpiro)**
-
 ---
 
 ## Features
@@ -220,9 +218,3 @@ mediainfo-bot/
 | `ffmpeg` / `ffprobe` (system) | Fallback media analysis |
 
 ---
-
-## Bug Reports & Support
-
-Found a bug or need help? Open an issue or reach out at **[@notyourpiro](https://t.me/notyourpiro)**
-
-**Bot channel: [@piroxbots](https://t.me/piroxbots)**
